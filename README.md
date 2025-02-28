@@ -1,8 +1,6 @@
 # Algorithmic-Fairness-Dashboard
 Algorithmic Fairness Dashboard ⚖️
 
-# Algorithmic Fairness Dashboard
-
 ## 📌 Overview
 Algorithmic fairness is a critical aspect of machine learning, ensuring that models do not disproportionately favor or disadvantage specific demographic groups. The **Algorithmic Fairness Dashboard** is an interactive visualization tool designed to analyze and audit the fairness of machine learning models using various fairness metrics.
 
